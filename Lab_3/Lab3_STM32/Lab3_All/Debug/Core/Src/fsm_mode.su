@@ -1,0 +1,8 @@
+fsm_mode.c:21:6:reset_led	8	static
+fsm_mode.c:31:6:mode_button_scan	8	static
+fsm_mode.c:60:6:increase_button_scan	8	static
+fsm_mode.c:91:6:reality_balance_red	4	static
+fsm_mode.c:100:6:reality_balance_green	4	static
+fsm_mode.c:109:6:reality_balance_set	8	static
+fsm_mode.c:127:6:set_button_scan	8	static
+fsm_mode.c:138:6:fsm_mode	8	static

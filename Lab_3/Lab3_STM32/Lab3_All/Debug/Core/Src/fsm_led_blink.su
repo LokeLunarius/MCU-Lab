@@ -1,0 +1,4 @@
+fsm_led_blink.c:9:6:blink_led	16	static
+fsm_led_blink.c:29:6:switch_enable_trigger	4	static
+fsm_led_blink.c:43:6:mode_7seg_display	24	static
+fsm_led_blink.c:62:6:fsm_led_blink	16	static

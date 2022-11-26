@@ -1,0 +1,10 @@
+fsm_traffic_light.c:29:6:display_7_seg_north_south	72	static
+fsm_traffic_light.c:134:6:display_7_seg_east_west	72	static
+fsm_traffic_light.c:239:6:display_traffic_led	16	static
+fsm_traffic_light.c:289:6:tmp_val_init	4	static
+fsm_traffic_light.c:296:6:tmp_val_overload	4	static
+fsm_traffic_light.c:312:6:number_processing	24	static
+fsm_traffic_light.c:318:6:timer_scan_7seg	16	static
+fsm_traffic_light.c:340:6:enable_trigger_scan	8	static
+fsm_traffic_light.c:359:6:enable_display_7seg	24	static
+fsm_traffic_light.c:402:6:fsm_traffic_light	24	static
