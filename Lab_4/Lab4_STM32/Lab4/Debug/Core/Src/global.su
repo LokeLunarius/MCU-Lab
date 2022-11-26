@@ -1,0 +1,5 @@
+global.c:10:6:led_red_toggle	8	static
+global.c:15:6:led_orange_toggle	8	static
+global.c:20:6:led_yellow_toggle	8	static
+global.c:25:6:led_green_toggle	8	static
+global.c:30:6:led_blue_toggle	8	static
